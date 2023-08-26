@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1693064148 source:c:\users\aleksandra\desktop\fakultet\4. godina\8. semestar\paralelno racunarstvo\me\vezbe3\openmpzadatak13\main.cpp
+	<iostream>
+	<vector>
+	<omp.h>
+	"hpc_helpers.hpp"
+
+1693046064 c:\users\aleksandra\desktop\fakultet\4. godina\8. semestar\paralelno racunarstvo\me\vezbe3\openmpzadatak13\hpc_helpers.hpp
+	<iostream>
+	<cstdint>
+	<chrono>
+

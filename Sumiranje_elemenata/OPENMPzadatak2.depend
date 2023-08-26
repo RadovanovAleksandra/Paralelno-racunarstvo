@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693055139 source:c:\users\aleksandra\desktop\fakultet\4. godina\8. semestar\paralelno racunarstvo\me\vezbe3\openmpzadatak2\main.cpp
+	<iostream>
+	<vector>
+	<omp.h>
+
